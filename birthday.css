@@ -1,0 +1,74 @@
+body{
+    display:block;
+    text-align:center;
+    background:linear-gradient(skyblue,pink);
+  }
+  .div{
+    border:5px dotted red;
+    background-color:grey;
+  }
+  .img{
+    border:5px solid black;
+    border-radius:5000px;
+  }
+  .year{
+    border:2px solid red;
+    border-radius:600px;
+    margin-left:600px;
+    margin-right:600px;
+    padding-left:auto;
+    padding-right:auto;
+    background-color:green;
+  }
+  .date{
+    border:2px solid red;
+    border-radius:600px;
+    margin-left:600px;
+    margin-right:600px;
+    padding-left:auto;
+    padding-right:auto;
+    background-color:green;
+  }
+  .gift-section{
+    font-size:25px;
+  }
+  .img4u{
+    height:500px;
+    width:600px;
+    border:10px solid blue;
+    border-radius:20px;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwzfMnHJz5QP4fWo-OCARlFArpCQmCkOYyw&s");
+    background-size:cover;
+    background-position:center;
+    margin:0px auto;
+    padding-left:100px;
+    padding-right:100px;
+  }
+  #img-1box:hover{
+    background-image:url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBkaGVsMHNuZ3o5dTZweTdlanlnaDBvc25qa3p4MTlyaGNibm1yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rM0Mh6BbJAUseNmNKN/giphy.webp");
+  }
+  #img-2box:hover{
+    background-image:url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRmdTZpcWM0N3E0c2hjc2p3ZWc4c2VmNGt6eHI3NGV3djE5emN6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ulmucrO4h8gkIX6vH3/giphy.webp");
+  }
+  #img-3box:hover{
+    background-image:url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl0ZjVhZjIzNmRkNGh5eTVsMWx2MXAzeml0OWtjYTU5Y3JzaTkyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n9Lxl5GiZM9GhwGnGE/giphy.webp");
+  }
+  #img-4box:hover{
+    background-image:url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGF3empjbWI0N2dvOTA0aGYwbWZpeWs5bXNidDIwempnMmtpMmFiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZJxSJ1fmRYKqJDhV2/giphy.webp");
+  }
+  #img-5box{
+    height:500px;
+  }
+  #img-5box:hover{
+    background-image:url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtzZ3J0Y2M2OXkzNTNhNW9oNmkxaGtkb200ajZweXpidDZueXlvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hLsfOL0uRSmBYAp7US/giphy.webp");
+  }
+  .footer{
+    width:400px;
+    margin:15px auto;
+    font-size:20px;
+    font-weight:bold;
+    font-style:italic;
+  }
+  a{
+    color:blue;
+  }
